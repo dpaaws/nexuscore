@@ -1,0 +1,16 @@
+# Node
+node_modules/
+dist/
+*.log
+
+# Go
+services/loader/loader
+*.exe
+
+# PHP
+vendor/
+.env
+
+# General
+.DS_Store
+*.tmp
